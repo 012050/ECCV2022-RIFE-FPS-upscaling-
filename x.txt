@@ -1,0 +1,8 @@
+google-colab @ file:///colabtools/dist/google-colab-
+jaxlib @ https://storage.googleapis.com/jax-releases/cuda11/jaxlib-0.4.6+cuda11.cudnn86-cp39-cp39-manylinux2014_x86_64.whl
+torch @ https://download.pytorch.org/whl/cu116/torch-1.13.1%2Bcu116-cp39-cp39-linux_x86_64.whl
+torchaudio @ https://download.pytorch.org/whl/cu116/torchaudio-0.13.1%2Bcu116-cp39-cp39-linux_x86_64.whl
+torchvision @ https://download.pytorch.org/whl/cu116/torchvision-0.14.1%2Bcu116-cp39-cp39-linux_x86_64.whl
+intel-openmp==2023.0.0
+
+
